@@ -1,13 +1,9 @@
-# mounesi.github.io
+# 🌐 Simple Personel Website
 
+💕 The project is for beginners. For this reason I took care to keep it simple, you can use and share as you wish.
 
-## yes
+📦 Contents
 
-If this happens is wonderful if not we need to try it again
-
-
-## This is no
-
-### This should be there
-
-'why this is not here'
+- [X] Footer
+- [X] Social Media Icons
+- [ ] Work History
